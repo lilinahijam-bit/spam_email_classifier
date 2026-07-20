@@ -22,3 +22,11 @@ The model is trained using TF-IDF Vectorizer and a Machine Learning classifier.
 - spam_email_classifier.ipynb
 - spam_model.pkl
 - spam.csv
+- Project_Report.docx
+
+## How to Run
+- Open the Jupyter Notebook.
+- Install the required Python Libraries.
+- Run all the notebook cells.
+- Test the model with sample email messages.
+
